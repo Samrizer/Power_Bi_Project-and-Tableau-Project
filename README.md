@@ -1,4 +1,6 @@
 
+# Power_Bi
+
 # Examining Sales and Shipping Information:
 
 ## Problem Statement
@@ -85,6 +87,44 @@ This Power BI project has been a fantastic learning opportunity, allowing me to 
 ## Acknowledgements:
 I’d like to express my deepest gratitude to EduLinking Career and Prof. Dr. Karim Mohammed Rezaul for their informative webinar on Power BI. Their advice and skills were invaluable in helping me learn the subtleties of data visualization and properly use Power BI for my project. The webinar not only improved my technical abilities, but also encouraged me to go deeper into the area of data analytics.
 
+
+# Tableau_Project
+
+## Using Tableau to Visualize Sales Data: 
+
+### Beginning to Use Tableau:
+I found it simple to get started with Tableau because to its intuitive UI. I started by importing my sales data, which included monthly sales statistics and the corresponding subcategories for areas like technology, office supplies, and furniture. I didn’t need to know a lot of code to quickly construct visualizations thanks to the drag-and-drop capabilities.
+
+## Dashboard 1: Profit Map
+This is a screen grab of my initial dashboard, which is centered around a profit map. It aids in my comprehension of profit distribution by classifying data into segments such as Wypeing, Upchart, and Arbana.
+
+![Image](https://github.com/user-attachments/assets/71df1790-ee3b-4653-8a41-ff8d6175e1db)
+
+![Image](https://github.com/user-attachments/assets/b152e5d1-9172-4843-a13c-3cdb59aafb7c)
+
+## Dashboard 2: Sales by Category
+This dashboard explores sales in further detail by category and subcategory. Items like Art Binders, Envelopes, and Machines are included, giving a clear picture of the things that are generating the most revenue. 
+
+![Image](https://github.com/user-attachments/assets/c01db9d1-f3cd-41b6-99a7-a9c4a37dfaaa)
+
+## Dashboard 3: Monthly Sales
+This graph displays the monthly sales trends for three product categories: technology, office supplies, and furniture. Every category has its own chart, with sales patterns from 2018 to 2021 shown by the various coloured lines. The y-axis displays sales figures, while the x-axis depicts the months of January through December.
+
+Sales of furniture rise gradually throughout the year until reaching a high at the end. The tendency for office supplies is more evenly distributed, with sporadic upswings. Sales of technology are the most erratic, fluctuating sharply throughout the year. This graphic aids in comparing how sales trends fluctuate between years and categories.
+
+![Image](https://github.com/user-attachments/assets/03c20168-42d9-4d73-a142-0c75c7eebab2)
+
+## Knowledge Acquired
+One of the most important things I learned from my dashboards was how consistently technology products — especially phones and accessories — performed. In order to increase income, it is crucial to concentrate on high-performing categories. The monthly sales data also showed seasonal patterns, with some months having larger sales volumes than others.
+
+## Learning and Difficulties
+While Tableau is user-friendly, I had certain difficulties, particularly when working with huge datasets. Maintaining data correctness and consistency was critical. I also learnt the value of selecting the appropriate style of visualization to effectively express the data’s story.
+
+## Acknowledgement
+I would like to express my deepest gratitude to EduLinking Career and Prof. Dr. Karim Mohammed Rezaul for their informative webinar on Tableau. Their advice and skills were invaluable in helping me comprehend the subtleties of data visualization and efficiently use Tableau for my projects.
+
+## Conclusion
+I’ve had such a fulfilling experience using Tableau. In addition to improving my data visualization abilities, it has given me insightful information that may influence business choices. To fully realize the potential of their data, I urge everyone interested in data analysis to investigate Tableau.
 
 
 
